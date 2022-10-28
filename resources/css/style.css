@@ -54,3 +54,19 @@ h2{
     font-weight: 300;
     font-size: 42px;
 }
+
+.icon-phone{
+    display: block;
+    margin: 20px auto;
+}
+
+.second-link{
+    margin-top: 40px;
+}
+
+.excursion{
+    text-align: right;
+    color: gray;
+    margin: 20px 0;
+    padding-right: 20px;
+}
